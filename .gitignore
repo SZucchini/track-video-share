@@ -2,9 +2,12 @@ log/
 trim.sh
 .DS_Store
 @eaDIR/
-models/*
-input/*
-output/*
+input/@eaDIR
+*.pth
+*.pt
+*.mov
+*.mp4
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
