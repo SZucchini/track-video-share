@@ -2,7 +2,6 @@ log/
 trim.sh
 .DS_Store
 @eaDIR/
-input/@eaDIR
 *.pth
 *.pt
 *.mov
