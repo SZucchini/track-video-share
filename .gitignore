@@ -2,10 +2,8 @@ log/
 trim.sh
 .DS_Store
 @eaDIR/
-*.pth
-*.pt
-*.mov
-*.mp4
+input/
+models/
 output/
 
 # Byte-compiled / optimized / DLL files
